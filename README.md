@@ -1,5 +1,5 @@
 # JumoAssessment
-# How to run the program
+## How to run the program
 
 # Method 1 (NetBeans IDE)
 Using NetBeans IDE, open project named JumoAssessment
